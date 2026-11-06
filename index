@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Auralis AI</title>
+<style>
+body {
+  margin: 0;
+  background: #090d1c;
+  color: #f1f3ff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+main {
+  max-width: 750px;
+  margin: 100px auto;
+  padding: 30px;
+}
+h1 {
+  font-size: 55px;
+  color: #75dfff;
+  text-shadow: 0 0 25px #765cff;
+}
+p { color: #b8c4df; line-height: 1.8; }
+a {
+  display: inline-block;
+  margin: 10px;
+  padding: 12px 20px;
+  border-radius: 25px;
+  background: #765cff;
+  color: white;
+  text-decoration: none;
+}
+</style>
+</head>
+<body>
+<main>
+<h1>AURALIS AI</h1>
+<h2>Sua voz. Sua inteligência. Sua presença.</h2>
+
+<p>
+Auralis é uma assistente virtual com inteligência artificial
+desenvolvida para proporcionar conversas naturais por voz no Discord.
+</p>
+
+<p>
+🎧 Voz feminina em português brasileiro<br>
+🧠 Inteligência artificial Gemini<br>
+👂 Reconhecimento de voz Whisper<br>
+🗣️ Síntese de voz Kokoro
+</p>
+
+<p>
+Entre em um canal de voz e converse naturalmente com a Auralis.
+</p>
+
+<a href="privacy.html">Política de Privacidade</a>
+<a href="terms.html">Termos de Serviço</a>
+
+<p>© 2026 Auralis AI</p>
+</main>
+</body>
+</html>
