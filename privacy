@@ -1,0 +1,105 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Política de Privacidade | Auralis AI</title>
+<style>
+body {
+  background: #090d1c;
+  color: #eee;
+  font-family: Arial, sans-serif;
+  line-height: 1.8;
+  padding: 25px;
+}
+main { max-width: 850px; margin: auto; }
+h1, h2 { color: #75dfff; }
+p, li { color: #c3cce0; }
+a { color: #75dfff; }
+</style>
+</head>
+<body>
+<main>
+<a href="index.html">Voltar à página inicial</a>
+
+<h1>Política de Privacidade — Auralis AI</h1>
+<p>Última atualização: 06/11/2026</p>
+
+<p>
+Esta Política explica como a Auralis AI, um bot independente
+para Discord, processa informações durante seu funcionamento.
+</p>
+
+<h2>1. Informações processadas</h2>
+<p>A Auralis poderá processar:</p>
+<ul>
+<li>Áudio recebido nos canais de voz para reconhecimento de fala.</li>
+<li>Transcrições necessárias para gerar respostas.</li>
+<li>Identificadores do Discord, como usuário, servidor e canal.</li>
+<li>Informações técnicas e registros de erros, quando habilitados.</li>
+</ul>
+
+<h2>2. Tecnologias utilizadas</h2>
+<ul>
+<li><strong>Whisper:</strong> reconhecimento de fala na infraestrutura da Auralis.</li>
+<li><strong>Google Gemini:</strong> processamento de transcrições e geração de respostas.</li>
+<li><strong>Kokoro:</strong> conversão de texto em voz na infraestrutura da Auralis.</li>
+<li><strong>Discord:</strong> comunicação e funcionamento do bot.</li>
+</ul>
+
+<p>
+As transcrições e o contexto necessário poderão ser enviados
+à API do Google Gemini. O tratamento também estará sujeito
+às políticas do provedor.
+</p>
+
+<h2>3. Uso das informações</h2>
+<p>
+As informações são utilizadas para reconhecer falas, responder
+aos usuários, manter o funcionamento do bot e diagnosticar erros.
+</p>
+
+<h2>4. Armazenamento e segurança</h2>
+<p>
+O áudio poderá ser processado temporariamente em memória ou
+arquivos durante a execução. Logs, transcrições e histórico
+podem ser mantidos conforme a configuração do sistema.
+O responsável deve limitar a retenção ao necessário.
+</p>
+
+<h2>5. Compartilhamento</h2>
+<p>
+Os dados podem ser processados pelos serviços necessários,
+incluindo Discord e Google Gemini. A Auralis não tem como
+finalidade vender dados pessoais ou utilizá-los para publicidade.
+</p>
+
+<h2>6. Direitos dos usuários</h2>
+<p>
+Para solicitar informações ou exclusão de dados sob controle
+do responsável pelo projeto, entre em contato:
+</p>
+<p><strong>E-mail:</strong> [INSIRA SEU E-MAIL DE CONTATO]</p>
+
+<h2>7. Uso de voz</h2>
+<p>
+Ao utilizar a Auralis em um canal de voz, os participantes
+devem ser informados sobre o processamento de áudio.
+Não utilize o bot para gravar pessoas sem autorização.
+</p>
+
+<h2>8. Alterações</h2>
+<p>
+Esta política poderá ser atualizada quando houver mudanças
+nas funcionalidades ou nos serviços utilizados.
+</p>
+
+<h2>9. Serviços externos</h2>
+<p>
+<a href="https://discord.com/privacy">Privacidade do Discord</a><br>
+<a href="https://policies.google.com/privacy">Privacidade do Google</a>
+</p>
+</main>
+</body>
+</html>
