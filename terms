@@ -1,0 +1,105 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Termos de Serviço | Auralis AI</title>
+<style>
+body {
+  background: #090d1c;
+  color: #eee;
+  font-family: Arial, sans-serif;
+  line-height: 1.8;
+  padding: 25px;
+}
+main { max-width: 850px; margin: auto; }
+h1, h2 { color: #75dfff; }
+p, li { color: #c3cce0; }
+a { color: #75dfff; }
+</style>
+</head>
+<body>
+<main>
+<a href="index.html">Voltar à página inicial</a>
+
+<h1>Termos de Serviço — Auralis AI</h1>
+<p>Última atualização: 06/11/2026</p>
+
+<h2>1. Sobre a Auralis</h2>
+<p>
+A Auralis AI é uma assistente virtual independente que utiliza
+inteligência artificial para interagir com usuários do Discord,
+incluindo funcionalidades de reconhecimento e síntese de voz.
+</p>
+
+<h2>2. Uso permitido</h2>
+<p>Ao utilizar a Auralis, você concorda em:</p>
+<ul>
+<li>Utilizar o bot de maneira legal e responsável.</li>
+<li>Respeitar os demais participantes dos servidores.</li>
+<li>Não utilizar o bot para atividades fraudulentas ou ilegais.</li>
+<li>Não tentar comprometer ou prejudicar sua infraestrutura.</li>
+<li>Respeitar a privacidade e os direitos de terceiros.</li>
+</ul>
+
+<h2>3. Canais de voz</h2>
+<p>
+Ao permitir que a Auralis entre em um canal de voz,
+os participantes devem ser informados de que o áudio
+poderá ser processado para reconhecimento de fala.
+Obtenha as autorizações necessárias.
+</p>
+
+<h2>4. Inteligência artificial</h2>
+<p>
+As respostas são geradas automaticamente e podem conter
+erros ou informações incompletas. Não devem ser consideradas
+aconselhamento médico, jurídico ou financeiro.
+</p>
+
+<h2>5. Disponibilidade</h2>
+<p>
+A Auralis é disponibilizada conforme sua capacidade operacional.
+O serviço poderá passar por manutenção, apresentar interrupções
+ou ter funcionalidades alteradas.
+</p>
+
+<h2>6. Suspensão</h2>
+<p>
+O acesso poderá ser suspenso em casos de abuso, violação
+destes termos, riscos de segurança ou exigências legais.
+</p>
+
+<h2>7. Propriedade intelectual</h2>
+<p>
+A identidade visual e o nome Auralis pertencem ao responsável
+pelo projeto ou são utilizados com autorização.
+Discord, Google, Gemini, Whisper e Kokoro pertencem
+aos seus respectivos titulares.
+</p>
+
+<h2>8. Responsabilidade</h2>
+<p>
+O usuário é responsável por avaliar as respostas geradas
+pela inteligência artificial antes de tomar decisões.
+O serviço é fornecido conforme disponível, respeitados
+os direitos e responsabilidades previstos na legislação.
+</p>
+
+<h2>9. Contato</h2>
+<p>
+Responsável pelo projeto: [INSIRA SEU NOME OU IDENTIFICAÇÃO]
+</p>
+<p>
+E-mail: [INSIRA SEU E-MAIL DE CONTATO]
+</p>
+
+<h2>10. Alterações</h2>
+<p>
+Estes termos poderão ser atualizados conforme a evolução
+do projeto.
+</p>
+</main>
+</body>
+</html>
